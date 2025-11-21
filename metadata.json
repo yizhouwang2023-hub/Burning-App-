@@ -1,0 +1,5 @@
+{
+  "name": "PulseBeat Audio Coach",
+  "description": "An advanced AI-powered workout companion designed for smart biometric earphones. Monitors real-time heart rate and pace while offering generative AI coaching plans.",
+  "requestFramePermissions": []
+}
